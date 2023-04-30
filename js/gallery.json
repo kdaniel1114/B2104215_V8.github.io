@@ -1,47 +1,47 @@
 [
     {
-      "src": "./img/camaro.png",
-      "alt": "Camaro",
-      "caption": "This is the image of Camaro"
+      "src": "./img/barracuda.jpg",
+      "alt": "Barracuda",
+      "caption": "This is the image of Plymouth Barracuda"
     },
     {
-        "src": "./img/challenger.jpg",
-        "alt": "Challenger",
-        "caption": "This is the image of Challenger"
+        "src": "./img/Chevelle LS6.jpg",
+        "alt": "Chevelle LS6",
+        "caption": "This is the image of Chevelle LS6"
     },
     {
-        "src": "./img/charger.jpg",
-        "alt": "Charger",
-        "caption": "This is the image of Charger"
+        "src": "./img/gnx.jpg",
+        "alt": "GNX",
+        "caption": "This is the image of Buick GNX"
     },
     {
-        "src": "./img/corvette.jpg",
-        "alt": "Corvette",
-        "caption": "This is the image of Corvette"
+        "src": "./img/road runner.webp",
+        "alt": "Superbird",
+        "caption": "This is the image of Road Runner "
     },
     {
-        "src": "./img/cuda.jpg",
-        "alt": "CUDA",
-        "caption": "This is the image of CUDA"
+        "src": "./img/442.jpg",
+        "alt": "442",
+        "caption": "This is the image of Oldsmobile 442"
       },
       {
-          "src": "./img/fairlane.jpg",
-          "alt": "Fairlane",
-          "caption": "This is the image of Fairlane"
+          "src": "./img/super bee.jpg",
+          "alt": "Super bee",
+          "caption": "This is the image of Dodge Super Bee A12"
       },
       {
-          "src": "./img/firebird.jpg",
-          "alt": "Firebird",
-          "caption": "This is the image of Firebird"
+          "src": "./img/amx.jpg",
+          "alt": "AMX",
+          "caption": "This is the image of AMX/3"
       },
       {
-          "src": "./img/gto.jpg",
-          "alt": "GTO",
-          "caption": "This is the image of GTO"
+          "src": "./img/charger daytona.jpg",
+          "alt": "Daytona",
+          "caption": "This is the image of Dodge Charger Daytona"
       },
       {
-        "src": "./img/mustang.jpg",
-        "alt": "Mustang",
-        "caption": "This is the image of Mustang"
+        "src": "./img/catalina.jpg",
+        "alt": "Catalina",
+        "caption": "This is the image of Pontiac Catalina 2+2"
     }     
 ]
