@@ -1,0 +1,47 @@
+[
+    {
+      "src": "./img/camaro.png",
+      "alt": "Camaro",
+      "caption": "This is the image of Camaro"
+    },
+    {
+        "src": "./img/challenger.jpg",
+        "alt": "Challenger",
+        "caption": "This is the image of chrome"
+    },
+    {
+        "src": "./img/charger.jpg",
+        "alt": "Charger",
+        "caption": "This is the image of Charger"
+    },
+    {
+        "src": "./img/corvette.jpg",
+        "alt": "Corvette",
+        "caption": "This is the image of Corvette"
+    },
+    {
+        "src": "./img/cuda.jpg",
+        "alt": "CUDA",
+        "caption": "This is the image of CUDA"
+      },
+      {
+          "src": "./img/fairlane.jpg",
+          "alt": "Fairlane",
+          "caption": "This is the image of Fairlane"
+      },
+      {
+          "src": "./img/firebird.jpg",
+          "alt": "Firebird",
+          "caption": "This is the image of Firebird"
+      },
+      {
+          "src": "./img/gto.jpg",
+          "alt": "GTO",
+          "caption": "This is the image of GTO"
+      },
+      {
+        "src": "./img/mustang.jpg",
+        "alt": "Mustang",
+        "caption": "This is the image of Mustang"
+    }     
+]
