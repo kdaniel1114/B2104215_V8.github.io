@@ -5,7 +5,7 @@
       "caption": "This is the image of Plymouth Barracuda"
     },
     {
-        "src": "./img/Chevelle LS6.jpg",
+        "src": "./img/ChevelleLS6.jpg",
         "alt": "Chevelle LS6",
         "caption": "This is the image of Chevelle LS6"
     },
@@ -15,7 +15,7 @@
         "caption": "This is the image of Buick GNX"
     },
     {
-        "src": "./img/road runner.webp",
+        "src": "./img/roadrunner.webp",
         "alt": "Superbird",
         "caption": "This is the image of Road Runner "
     },
@@ -25,7 +25,7 @@
         "caption": "This is the image of Oldsmobile 442"
       },
       {
-          "src": "./img/super bee.jpg",
+          "src": "./img/superbee.jpg",
           "alt": "Super bee",
           "caption": "This is the image of Dodge Super Bee A12"
       },
@@ -35,7 +35,7 @@
           "caption": "This is the image of AMX/3"
       },
       {
-          "src": "./img/charger daytona.jpg",
+          "src": "./img/chargerdaytona.jpg",
           "alt": "Daytona",
           "caption": "This is the image of Dodge Charger Daytona"
       },
